@@ -1,1 +1,2 @@
-# ITEC-50
+# project from ECIJA SIR POLO L. 
+BSIT-1C 
